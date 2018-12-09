@@ -1,3 +1,4 @@
+```
 Please use this format, which is intended to keep things simple and focused
 
 The point is to make the Issue well-defined for everyone involved: 
@@ -5,6 +6,8 @@ The point is to make the Issue well-defined for everyone involved:
 - the problem or outcome whished. (or goal)
 - the action (or task), and in some case,
 - the outcome of a win/win situation (or Result/reward) as simply as possible.
+```
+this part is to be deleted when first edit... 
 
 ---
 
