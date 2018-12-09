@@ -27,11 +27,13 @@ _[source: climate justice alliance](https://climatejusticealliance.org/)_
 
 
 ### How to help?
-Well, there is a lot to do. 
- 
-- [ ] Helping new commers to understand github.  
-[NicolasdB](@nicolasdb) is working on a learning path adapted for non-developpers to understand how to contribute on this platform.  
+Well, there is a lot to do.  
+The simple way to look on what you can help is to [check our issues.](https://github.com/Vulca/coreTeam/issues)   
 
+
+But here is some exemples to start with.   
+- [ ] Helping new commers to understand github.  
+[NicolasdB](@nicolasdb) is working on a learning path adapted for non-developpers to understand how to contribute on this platform.   
 [Inspired by openSource guides](https://opensource.guide/) and the work_in_progress can be followed [here](https://github.com/nicolasdb/nicolasdb.github.io/issues/102)
 
 - [ ] Graphical chart to level up. 
